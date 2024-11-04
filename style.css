@@ -97,6 +97,15 @@ button:hover {
   box-shadow: rgba(110, 112, 147, 0.408) 0px 2px 10px;
   background-color: rgb(255, 255, 255);
 }
+.card a {
+  text-decoration: none;
+  color: rgb(20, 18, 31);
+  font-size: 16px;
+}
+.card a:hover {
+  color: rgb(65, 65, 83);
+  font-size: 17px;
+}
 
 #section_2 {
   background-color: rgba(166, 176, 200, 0.192);
